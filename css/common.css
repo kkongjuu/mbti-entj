@@ -1,6 +1,8 @@
 body {
   font-family: "pretendard Variable", sans-sefit;
   word-break: keep-all;
+  padding-top: 80px;
+  padding-bottom: 80px;
 }
 
 .page-title {

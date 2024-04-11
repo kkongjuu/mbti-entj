@@ -1,3 +1,4 @@
+/* 다 만들었다 */
 body {
   background-color: #f6fcff;
   background-image: url("../images/main_bg.jpg");
@@ -15,6 +16,5 @@ body {
   margin-right: auto;
   /* 이미지 글자요소 중앙정렬이 안됩니다. */
   /* 상자요소로 전환해서 처리 */
-  display: block;
   margin-bottom: 40px;
 }
