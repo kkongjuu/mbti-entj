@@ -8,6 +8,7 @@ body {
   max-width: 500px;
   height: 20px;
   background-color: #FFFFFF;
+  background-color: #ffffff;
   margin-left: auto;
   margin-right: auto;
   border-radius: 10px;
@@ -21,11 +22,16 @@ body {
   background-color: #ffb103;
   border-radius: 10px;
   transition: 0.3s;
+
 }
 
 .question-box {
   max-width: 420px;
   background-color: #FFFFFF;
+}
+.question-box {
+  max-width: 420px;
+  background-color: #ffffff;
   padding-top: 60px;
   padding-bottom: 60px;
   padding-left: 40px;
@@ -44,6 +50,9 @@ body {
 }
 
 .question-box .question{
+}
+
+.question-box .question {
   font-size: 30px;
   font-weight: 700;
   text-align: center;
